@@ -1,0 +1,29 @@
+/* .App {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #190e31;
+    font-family: Arial, sans-serif;
+} */
+.ViewStudentProfile
+{
+display: 'block';
+width: 'auto';
+height: 'auto';
+justify-Content: 'normal';
+align-Items: 'normal';
+}
+/* .display_inline{
+    display:flex;
+}
+.coloring p {
+    color: white;
+} 
+.coloring h1 {
+    color: white;
+}
+.coloring{
+    color: white !important;
+} */
